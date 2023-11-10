@@ -1,5 +1,5 @@
 ## WiDS : Into the RLverse
-This project is a part of "Winter in Data Science(WiDS)" conducted by Analytics Club, IIT Bombay. The mentors for this project are Atharva Bendale and Vishal Bysani.
+This project is a part of "Winter in Data Science(WiDS), 2023" conducted by Analytics Club, IIT Bombay. The mentors for this project are Atharva Bendale and Vishal Bysani.
 
 ## Project Schedule
 - Week 1 : Introduction to Python programming and Python libraries such as NumPy, MatPlotlib, PyTorch. Simulating a multi-armed bandits problem to be solved in next week.

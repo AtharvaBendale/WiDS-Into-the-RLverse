@@ -2,7 +2,7 @@
 This project is a part of "Winter in Data Science(WiDS), 2023" conducted by Analytics Club, IIT Bombay. The mentors for this project are Atharva Bendale and Vishal Bysani.
 
 ## Project Schedule
-- Week 1 : Introduction to Python programming and Python libraries such as NumPy, MatPlotlib, PyTorch. Simulating a multi-armed bandits problem to be solved in next week.
+- Week 1 : Recap of Python programming and introduction to Python libraries such as NumPy, MatPlotlib, PyTorch. Simulating a multi-armed bandits problem to be solved in next week.
 - Week 2 : Introduction to Reinforcement Learning, implementing basic algorithm to train an RL agent which plays mutli-armed bandits problem created last week.
 - Week 3 : Learning about Markov Decision Processes (MDPs) and use OpenAI Gymnasium API to solve some classic control problems.
 - Week 4 : Introduction to Deep Q Networks, and using it to solve continuous space problems.

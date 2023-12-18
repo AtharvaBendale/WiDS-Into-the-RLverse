@@ -3,7 +3,7 @@
 Welcome to Week 1, in this week we will learn about PyTorch implementation of CNNs (Convolutional Neural Nets), have a brief introduction to reinforcement learning problem and build some environments which we will solve in coming weeks.
 
 - For anyone who is looking for Python recap they can see first few weeks of [Python Resources](https://github.com/wncc/learners-space/tree/master/Python) (personally this is a bit too comprehensive, a resource like W3 Schools should be enough to learn python)
-- You should visit [W3Schools MatPlotLib](https://www.w3schools.com/python/matplotlib_intro.asp) and learn basic MatPlotLib operations
+- You should visit [W3Schools MatPlotLib](https://www.w3schools.com/python/matplotlib_intro.asp) and [W3Scchools Numpy](https://www.geeksforgeeks.org/python-numpy/) and learn basic MatPlotLib and NumPy operations
 - Watch [this](https://youtu.be/c36lUUr864M?si=eApDWpXPrwyqHOo1) PyTorch tutorial till 3:35:00. You will be introduced to linear, logistic regression, and implement a basic neural network and a convolutional neural network. You will also learn the basic functions needed to implement the above in PyTorch. For deep reinforcement learning knowing how to build models using PyTorch is enough, even though you may refer to these resources (Personally I would say go through these resources once and try to get a basic idea of NNs & CNNs as this will greatly help you in building your own models):
     - [Linear Regression](https://www.geeksforgeeks.org/linear-regression-python-implementation/)
     - [Logistic Regression](https://www.geeksforgeeks.org/understanding-logistic-regression/)

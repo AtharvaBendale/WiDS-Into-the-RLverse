@@ -12,5 +12,5 @@ Welcome to Week 1, in this week we will learn about PyTorch implementation of CN
     - [CNNs](https://youtu.be/iaSUYvmCekI?si=eaxRFbGiiLgKO8L4)
 - Now you have to implement a CNN model in PyTorch to classify MNIST dataset in [mnist.ipynb](./mnist.ipynb) notebook.
 - Please read [Grokking RL](../GrokkingRL.pdf) from Pg 31 to Pg 45, this will to introduce you to the reinforcement learning problem and some of it's basic aspects, the next part of your assignment requires knowledge about Multi Armed Bandits.
-- The files [multi_armed_bandit.ipynb](./multi_armed_bandits.ipynb) and [sudoku.ipynb](./TicTacToe.ipynb) contain the next part of your assignement, complete the code inside the respective notebooks notebook itself.
+- The files [multi_armed_bandit.ipynb](./multi_armed_bandits.ipynb) and [TicTacToe.ipynb](./TicTacToe.ipynb) contain the next part of your assignement, complete the code inside the respective notebooks notebook itself.
 - If you are done with the assignments then feel free to read Pg 46 to Pg 62 of [Grokking RL](../GrokkingRL.pdf).

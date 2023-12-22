@@ -31,5 +31,7 @@ The solutions to the MDPs are contained in the same directory. You can use these
 - You can refer to the solution text files inside the [MDPs](./MDPs) folder for checking your program correctness but note that the assignment will be graded on some other MDP.
 
 Note : You can submit any one of the file type .py or .ipynb as you like
+
 Note : This assignment needs you to access the given text files, and if you cannot use python on your own system and are planning to use Google Colab and not sure how to access text files from colab please DM me for instruction.
+
 You can now apply the same algorithm and get the optimal policies and values for the multi-armed bandits you constructed last week.

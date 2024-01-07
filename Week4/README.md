@@ -1,5 +1,5 @@
 ## Week4 - Introduction to deep Reinforcement Learning
-Welcome to Week4 on this project, this week you will see some pretty satisying results with the powerful Deep Q Networks. You have to "solve" the cartpole environment from the OpenAI Gymnasium API using Deep Q networks.
+Welcome to Week4 of this project, this week you will see some pretty satisying results with the powerful Deep Q Networks. You have to "solve" the cartpole environment from the OpenAI Gymnasium API using Deep Q networks.
 <br>
 <br>
 This week you have to:
